@@ -1,25 +1,9 @@
 #############################################################
-# NOTE: this is the provided TEMPLATE as your required 
-#		starting point of HW3 MIPS programming part.
-#		This is the only file you should change and submit.
-#
-# Author: Hamza Mughal
-# CS465 F2019
-# HW3 
-#############################################################
-
-#############################################################
 # PUT YOUR TEAM INFO HERE
 # NAME		Patrick Schemering
 # G#		01037384
 # NAME 2	Carl Vann
 # G# 2		01020750
-#############################################################
-
-#############################################################
-# DESCRIPTION  
-#
-# PUT YOUR ALGORITHM DESCRIPTION HERE
 #############################################################
 
 .data # Start of Data Items
