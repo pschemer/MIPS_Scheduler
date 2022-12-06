@@ -1,13 +1,4 @@
 #############################################################
-# NOTE: this is the provided TEMPLATE as your required 
-#		starting point of HW2 MIPS programming part.
-#		This is the only file you should change and submit.
-#
-# Author: Yutao Zhong
-# CS465-001 F2019
-# HW2  
-#############################################################
-#############################################################
 # PUT YOUR TEAM INFO HERE
 # NAME:		Patrick Schemering
 # G#:		G-01037384
